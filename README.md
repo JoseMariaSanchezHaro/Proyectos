@@ -1,3 +1,4 @@
 # Proyectos
-Mi carpeta de proyectos hechos en clase
+Mi carpeta de proyectos personales
+
 
